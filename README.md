@@ -1,5 +1,5 @@
-👋 Hi, I’m Magdaline Kimani
-  I’m interested in Data Science|AI
+👋 Hi, I’m Magdaline Kimani.
+  I’m interested in Data Science|AI,
   Currently learning Data Science
   You can reach me via kimanimagdaline19@gmail.com
   Pronouns: Her/Hers
